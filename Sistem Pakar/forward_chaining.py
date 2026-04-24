@@ -1,6 +1,7 @@
 #
 # UTS Sistem Pakar
 # Data diambil dari jurnal "Sistem Pakar Deteksi Penyakit pada Anak Menggunakan Metode Forward Chaining"
+# https://jsisfotek.org/index.php/JSisfotek/article/view/34/34
 #
 # Rizky Alhafiz   (200504064)
 # Ryan Alfiansyah (230504109)
