@@ -8,7 +8,6 @@ repositories {
 
 dependencies {
     testImplementation libs.junit
-    implementation libs.guava
 }
 
 java {
